@@ -1,4 +1,5 @@
 # CryptoClipper
+# 🚀 [Join Telegram Now (or die) ](https://t.me/iosxv_tools)
 
 Clipboard monitor that detects cryptocurrency wallet addresses and replaces them.
 
